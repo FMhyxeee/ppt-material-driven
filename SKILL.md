@@ -1,6 +1,6 @@
 ﻿---
 name: ppt-material-driven
-description: 从用户提供的材料与图片分步骤制作演示文稿，适配商务汇报与学术演讲，支持 Mermaid 思维导图到图表的转化。适用于先做结构、再做逐页内容、再做视觉精修与终检的任务，默认采用 Longi-Inspired（借鉴隆基绿能）+ Corporate Minimal 的克制科技风，并内置“防单调”样式增强流程。
+description: 从用户提供的材料与图片分步骤制作演示文稿，适配商务汇报与学术演讲，支持 Mermaid 思维导图到图表的转化。适用于先做结构、再做逐页内容、再做视觉精修与终检的任务，默认采用 Clean-Tech + Corporate Minimal 的克制科技风，并内置“防单调”样式增强流程。
 ---
 
 # PPT Material-Driven Skill
@@ -11,7 +11,7 @@ description: 从用户提供的材料与图片分步骤制作演示文稿，适�
 
 默认使用：
 
-- `references/longi-inspired-style.md`（隆基风格参数）
+- `references/clean-tech-corporate-style.md`（清洁科技风格参数）
 - `references/corporate-minimal-style.md`（版心与结构基线）
 - `references/style-presets.md`（防单调增强）
 
@@ -178,6 +178,7 @@ description: 从用户提供的材料与图片分步骤制作演示文稿，适�
 - 先结构、后文案、再精修。
 - 优先短句与项目符号，减少大段文字。
 - 避免空泛词堆叠。
+
 
 
 
